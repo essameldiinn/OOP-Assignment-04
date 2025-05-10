@@ -163,15 +163,7 @@ namespace Ass_04
     //        Console.WriteLine("\nAuthentication Result: " + authService.AuthenticateUser("admin", "1234"));
     //        Console.WriteLine("Authorization Result: " + authService.AuthorizeUser("admin", "Manager"));
 
-    //        // Test Notifications
-    //        Console.WriteLine();
-    //        INotificationService email = new EmailNotificationService();
-    //        INotificationService sms = new SmsNotificationService();
-    //        INotificationService push = new PushNotificationService();
 
-    //        email.SendNotification("user@example.com", "Welcome to the system!");
-    //        sms.SendNotification("+20123456789", "Your code is 4321.");
-    //        push.SendNotification("Device001", "You have a new alert.");
     //    }
     //}
 
